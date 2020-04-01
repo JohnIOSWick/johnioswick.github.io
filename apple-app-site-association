@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7G6756ME5J.su.smd.unilinked.alpha",
+        "paths": [ "*" ]
+      },
+      {
+         "appID": "7G6756ME5J.su.smd.unilinked.sber",
+         "paths": [ "*" ]
+      }
+    ]
+  }
+}
