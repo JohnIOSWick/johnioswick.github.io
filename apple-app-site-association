@@ -3,12 +3,16 @@
     "apps": [],
     "details": [
       {
-        "appID": "7G6756ME5J.su.smd.unilinked.alpha",
+        "appID": "7G6756ME5J.su.smd.unilinked.any",
         "paths": [ "*" ]
       },
       {
+        "appID": "7G6756ME5J.su.smd.unilinked.alpha",
+        "paths": [ "path/*" ]
+      },
+      {
          "appID": "7G6756ME5J.su.smd.unilinked.sber",
-         "paths": [ "*" ]
+         "paths": [ "path1/*" ]
       }
     ]
   }
