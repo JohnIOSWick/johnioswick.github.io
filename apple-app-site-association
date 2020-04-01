@@ -5,14 +5,6 @@
       {
         "appID": "7G6756ME5J.su.smd.unilinked.any",
         "paths": [ "*" ]
-      },
-      {
-        "appID": "7G6756ME5J.su.smd.unilinked.alpha1",
-        "paths": [ "*" ]
-      },
-      {
-         "appID": "7G6756ME5J.su.smd.unilinked.sber1",
-         "paths": [ "*" ]
       }
     ]
   }
