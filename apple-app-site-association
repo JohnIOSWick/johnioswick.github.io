@@ -7,12 +7,12 @@
         "paths": [ "*" ]
       },
       {
-        "appID": "7G6756ME5J.su.smd.unilinked.alpha",
-        "paths": [ "path/*" ]
+        "appID": "7G6756ME5J.su.smd.unilinked.alpha1",
+        "paths": [ "*" ]
       },
       {
-         "appID": "7G6756ME5J.su.smd.unilinked.sber",
-         "paths": [ "path1/*" ]
+         "appID": "7G6756ME5J.su.smd.unilinked.sber1",
+         "paths": [ "*" ]
       }
     ]
   }
